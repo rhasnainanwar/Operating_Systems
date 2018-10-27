@@ -1,0 +1,340 @@
+
+
+national university of sciences and technology-school of electrical engineering and computer science (national university of sciences and technology school of electrical engineering and computer science) dean message 
+	
+
+
+	
+	  
+
+		  		
+		
+		
+		
+		
+		
+				
+		
+				
+		
+		
+		
+		
+		
+	
+
+
+	
+		
+			
+				
+				
+				
+			
+			    
+				
+
+			
+			
+				
+                
+					
+						
+                        
+						
+						
+					
+				
+               
+                <!--
+				
+					alumni
+					library
+                    career
+					contact
+				
+                -->
+                
+                
+				  facebook
+					twitter
+					linkedin
+				
+                
+				center of excellence for quality education and research
+			
+		
+	
+	
+	close
+	
+		
+			
+			
+			
+		
+		
+				home
+				about
+					
+	vision &amp; mission
+message from principal-->
+	message from principal and dean school of electrical engineering and computer science
+    school of electrical engineering and computer science faculty
+	niinformation technology to school of electrical engineering and computer science
+	<!--
+    e-media
+	picture gallery
+    -->
+	events
+	events-->
+	news letters
+	photo gallery -->   
+	faculty achievements
+    career
+    tender notice
+    contact us
+				
+				departments
+							
+	dept. of computing
+       
+            dept. of computer science
+            dept. of software engineering
+            dept. of innovative technologies in learning
+       
+     
+	dept. of electrical engineering
+	dept. of humanities &amp; sciences 
+	school of electrical engineering and computer science library
+	examination branch
+	information technology services-->
+
+				
+				prospective students
+							
+	prospectus two thousand and eighteen
+	degrees offered
+	admissions
+	scholarships
+career development-->
+				
+				research &amp; development
+									
+	research groups
+	research publications
+	research collaborations
+	
+
+				
+				student affairs
+									
+	student affairs office
+	class schedule
+	date sheets
+	academic calendar
+	ms policy guidelines-->
+	pg policy guidelines
+	summer semester courses
+	students achievement-->
+    
+    scholarships
+
+    faculty advisory groups
+    alumni scholarship
+
+				
+				international
+								
+	delegates visiting school of electrical engineering and computer science
+	school of electrical engineering and computer science delegates visiting abroad
+	internships for international students
+	iaeste islamabad-->
+
+				
+				internal
+					
+	webmail
+	downloads
+	school of electrical engineering and computer science directory
+   	library    
+	school of electrical engineering and computer science intranet
+	lms
+	helpdesk
+	seminar hall booking
+	nins-->
+
+		  
+		
+	   registration-->
+	
+	
+		
+			
+				
+		
+			vision &amp; mission
+			message from principal
+			message from dean
+			luminaries message
+			niinformation technology to school of electrical engineering and computer science
+			e-media
+			picture gallery
+			seminars & workshops
+			faculty achievements
+		
+
+-->				
+					
+						
+							about school of electrical engineering and computer science
+							
+	vision &amp; mission
+message from principal-->
+	message from principal and dean school of electrical engineering and computer science
+    school of electrical engineering and computer science faculty
+	niinformation technology to school of electrical engineering and computer science
+	<!--
+    e-media
+	picture gallery
+    -->
+	events
+	events-->
+	news letters
+	photo gallery -->   
+	faculty achievements
+    career
+    tender notice
+    contact us
+						
+					
+								
+				
+				
+						 
+						
+						
+							message from principal and dean national university of sciences and technology-school of electrical engineering and computer science
+							
+								
+								
+								  principal and dean national university of sciences and technology-school of electrical engineering and computer science
+									drzaidi@seecs.edu.pk
+								
+							
+							welcome to national university of sciences and technology school of electrical engineering and computer science (school of electrical engineering and computer science). 
+							in the current age of rapid progress, only those fired with a passion to excel can aspire for a respectable survival. we at national university of sciences and technology-school of electrical engineering and computer science are committed to provide first-rate engineering education in pakistan, second to none.  the school offers postgraduate and undergraduate programs covering the disciplines of electrical, telecommunications and information technology education. these programs blending computers, communication technologies and other information retrieving/processing tools equip the youth with the requisite know-how for solving real life problems and cope with the challenges of the professional world ahead. 
+							we lay great emphasis on emerging, interdisciplinary, cutting-edge areas of research. our faculty members are admirably engaged in interdisciplinary research projects of substance. the institute is ideally suited for those aspiring to pursue sponsored research diverse hi-tech areas such as object oriented technologies, networking technologies, database technologies, e-commerce technologies, communication systems engineering and kindred fields.
+							we cherish to develop the school into an icon of excellence of world stature, and our endeavours are making promising headways. we are privileged to educate and groom on our campus some of the best and brightest students from the entire spectrum of the population including expatriates. we are proud to employ top of the line faculty with impressive academic credentials and progressive vision. 
+							i am confident that our high-tech degree programmes and courses will contribute a great deal towards enhancing the nation’s indigenous capabilities for self-sufficiency in the critical fields of science and technology.
+							i cordially invite you to consider embarking on your professional studies at our purpose-built new campus at islamabad.<!--
+							view profile
+							view home page
+						  -->
+						
+
+				
+				 
+			
+		
+
+		
+
+
+ 
+
+	
+		
+			
+				
+					quick navigation
+					
+						school of electrical engineering and computer science faculty | career | school of electrical engineering and computer science directory
+						alumni scholarship fund | latest scholarships
+						lms portal | school of electrical engineering and computer science library | plagiarism policy
+						academic calendar | event calendar
+                        ug admissions | ms admissions | phd admissions
+					
+				
+			
+		
+		
+			
+				
+					campus location		
+					
+
+
+
+
+                                   
+					
+				
+			
+		
+			
+				contact school of electrical engineering and computer science
+				school of electrical engineering and computer science (school of electrical engineering and computer science)
+					national university of sciences and technology (national university of sciences and technology)
+					national university of sciences and technology sector h-twelve
+					islamabad - forty-four thousand
+					pakistan.
+				read more
+				
+				  facebook
+					twitter
+					linkedin
+				
+			
+	
+
+			
+		
+			
+			
+			
+				home
+				contact
+			
+			copyright © two thousand and eighteen. all rights reserved
+		
+	
+	
+	
+	jquery(document).ready(function ($){
+        $(window).scroll(function () {
+            if ($(document).scrolltop() <= forty) {
+                $('#header-full').removeclass('small');
+                $('.tabs-blur').removeclass('no-blur');
+                $('#main-header').removeclass('small');
+            } else {
+                $('#header-full').addclass('small');
+                $('.tabs-blur').addclass('no-blur');
+                $('#main-header').addclass('small');
+            }
+        });
+        
+        $("a[data-rel^='prettyphoto']").prettyphoto({
+			default_width: six hundred,
+			default_height: four hundred and twenty,
+			social_tools: false
+		});
+        $('#slideshow-tabs').tabs({ show: { effect: "fade", duration: two hundred }, hide: { effect: "fade", duration: three hundred } });
+        $('.slider-tabs.flexslider').flexslider({
+            animation: "slide",
+            pauseonaction: true,
+        });
+		$("#slideshow-tabs").tabs({fx:{opacity: "toggle"}}).tabs("rotate", ten thousand, true);
+		$('a[data-rel]').each(function() {
+			$(this).attr('rel', $(this).data('rel'));
+		});
+		$('img[data-retina]').retina({checkifimageexists: true});
+		$(".open-menu").click(function(){
+		    $("body").addclass("no-move");
+		});
+		$(".close-menu, .close-menu-big").click(function(){
+		    $("body").removeclass("no-move");
+		});
+	});
+			
+	

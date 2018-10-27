@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)http://seecs.nust.edu.pk/About/Principal-Dean-Message/ -->
+<html lang="en" class="js gr__seecs_nust_edu_pk"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>NUST-SEECS (NUST School of Electrical Engineering and Computer Science) Dean Message </title>
+	
+
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+
+		  		<link rel="stylesheet" type="text/css" media="all" href="./deanmessage_files/style.css">
+		<link rel="stylesheet" type="text/css" media="all" href="./deanmessage_files/prettyPhoto.css">
+		<link rel="stylesheet" type="text/css" href="./deanmessage_files/css">
+		<link rel="stylesheet" type="text/css" href="./deanmessage_files/css(1)">
+		<link rel="stylesheet" type="text/css" media="all" href="./deanmessage_files/stylemobile.css">
+		<link rel="stylesheet" type="text/css" media="all" href="./deanmessage_files/mobilenavigation.css">
+				<script type="text/javascript" src="./deanmessage_files/modernizr.js"></script>
+		<script type="text/javascript" src="./deanmessage_files/jquery.js"></script>
+				<script type="text/javascript" src="./deanmessage_files/jquery-ui.js"></script>
+		<script type="text/javascript" src="./deanmessage_files/jquery.flexslider.js"></script>
+		<script type="text/javascript" src="./deanmessage_files/jquery.prettyPhoto.js"></script>
+		<script type="text/javascript" src="./deanmessage_files/jquery.retina.js"></script>
+		<script type="text/javascript" src="./deanmessage_files/scripts.js"></script>
+		
+	
+</head>
+<body data-gr-c-s-loaded="true" style="zoom: 1;"><header id="main-header" class="clearfix">
+	<div id="header-full" class="clearfix">
+		<div id="header" class="clearfix">
+			<a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#nav" class="open-menu">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>
+			<a href="http://seecs.nust.edu.pk/" id="logo">    
+				<img id="logo-main" src="./deanmessage_files/logo-retina.png" data-retina="http://seecs.nust.edu.pk/Resources/images/logo-retina.png" alt="NUST SEECS" style="border:none" class="retina-on"><img id="logo-mob" src="./deanmessage_files/logo-mob.png" alt="NUST SEECS" style="border:none"><img id="logo-name" src="./deanmessage_files/logo_text.png" alt="School of Electrical Engineering &amp; Computer Science (SEECS)" style="border:none">
+
+			</a>
+			<aside id="header-content">
+				
+                <form method="GET" action="http://www.google.com/search" id="searchform">
+					<div>
+						<input type="text" name="q" class="input">
+                        <input type="hidden" name="domains" value="seecs.nust.edu.pk">
+						<input type="hidden" name="sitesearch" value="seecs.nust.edu.pk">
+						<input type="submit" name="submitsearch" class="button" value="Search">
+					</div>
+				</form>
+               
+                <!--
+				<ul id="nav-header">
+					<li><a href="http://alumni.seecs.nust.edu.pk" target="_blank">Alumni</a></li>
+					<li><a href="http://seecs.nust.edu.pk/Departments/Library/">Library</a></li>
+                    <li><a href="http://seecs.nust.edu.pk/About/Career">Career</a></li>
+					<li><a href="http://seecs.nust.edu.pk/About/Contact">Contact</a></li>
+				</ul>
+                -->
+                
+                <ul id="list-social" class="clearfix" style="float:right; margin-top:10px">
+				  <li id="icon-facebook"><a href="https://www.facebook.com/NUST.SEECS" target="_blank">Facebook</a></li>
+					<li id="icon-twitter"><a href="https://twitter.com/nustseecs" target="_blank">Twitter</a></li>
+					<li id="icon-linkedin" style="margin-right:0px"><a href="https://www.linkedin.com/company/nust-school-of-electrical-engineering-&amp;-computer-science" target="_blank">Linkedin</a></li>
+				</ul>
+                
+				<h3 id="slogan">Center of Excellence for Quality Education and Research</h3>
+			</aside>
+		</div>
+	</div>
+	<nav id="nav" class="clearfix">
+	<a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" class="close-menu-big">Close</a>
+	<div id="nav-container">
+		<a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" class="close-menu">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</a>
+		<ul id="nav-main">
+				<li style="margin-left:35px;"><a href="http://seecs.nust.edu.pk/" target="_parent">Home</a></li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">About</a>
+					<ul>
+	<li><a href="http://seecs.nust.edu.pk/About/Mission-and-Vision" target="_parent">Vision &amp; Mission</a></li>
+<!--	<li><a href="http://seecs.nust.edu.pk/About/Principal-Message" target="_parent">Message from Principal</a></li>-->
+	<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message" target="_parent">Message from Principal and Dean SEECS</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Faculty" target="_parent">SEECS Faculty</a></li>
+	<li><a href="http://seecs.nust.edu.pk/About/NIIT-to-SEECS" target="_parent">NIIT to SEECS</a></li>
+	<!--
+    <li><a href="" target="_parent">e-Media</a></li>
+	<li><a href="" target="_parent">Picture Gallery</a></li>
+    -->
+	<li><a href="http://seecs.nust.edu.pk/About/Seminars-Workshops" target="_parent">Events</a></li>
+	<!--<li><a href="http://seecs.nust.edu.pk/Events/" target="_parent">Events</a></li>-->
+	<!--<li><a href="http://seecs.nust.edu.pk/About/News-Letter/">News Letters</a></li>
+	<li><a href="http://seecs.nust.edu.pk/About/Photo-Gallery/" target="_parent">Photo Gallery</a></li> -->   
+	<li><a href="http://seecs.nust.edu.pk/About/Faculty-Achievements/" target="_parent">Faculty Achievements</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Career/" target="_parent">Career</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Tender-Notice/" target="_parent">Tender Notice</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Contact/" target="_parent">Contact Us</a></li>
+</ul>				</li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">Departments</a>
+					<ul>		
+	<li><a href="http://seecs.nust.edu.pk/Departments/Department-of-Computing" target="_parent">Dept. of Computing</a></li>
+       
+            <li><a href="http://seecs.nust.edu.pk/Departments/Computer-Science">Dept. of Computer Science</a></li>
+            <li><a href="http://seecs.nust.edu.pk/Departments/Software-Engineering">Dept. of Software Engineering</a></li>
+            <li><a href="http://ite.seecs.nust.edu.pk/" target="_blank">Dept. of Innovative Technologies in Learning</a></li>
+       
+     
+	<li><a href="http://seecs.nust.edu.pk/Departments/Electrical-Engineering-Department" target="_parent">Dept. of Electrical Engineering</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Departments/HS/" target="_parent">Dept. of Humanities &amp; Sciences </a></li>
+	<li><a href="http://seecs.nust.edu.pk/Departments/Library" target="_parent">SEECS Library</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Departments/Exam-Section" target="_parent">Examination Branch</a></li>
+	<!--<li><a href="http://its.seecs.nust.edu.pk/" target="_parent">Information Technology Services</a></li>-->
+</ul>
+				</li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">Prospective Students</a>
+					<ul>		
+	<li><a href="http://seecs.nust.edu.pk/Prospective-Students/Prospectus/Prospectus_2018.pdf" target="_parent">Prospectus 2018</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Prospective-Students/Degrees-Offered" target="_parent">Degrees Offered</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Prospective-Students/Admission" target="_parent">Admissions</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Scholarships/latest-scholarships.php" target="_parent">Scholarships</a></li>
+<!--	<li><a href="http://seecs.nust.edu.pk/About/Career" target="_parent">Career Development</a></li>-->
+</ul>				</li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">Research &amp; Development</a>
+							<ul>		
+	<li><a href="http://seecs.nust.edu.pk/Research-And-Development/groups" target="_parent">Research Groups</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Research-And-Development/publications" target="_parent">Research Publications</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Research-And-Development/Research-Collaboration" target="_parent">Research Collaborations</a></li>
+	
+</ul>
+				</li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">Student Affairs</a>
+							<ul>		
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Student-Affair-Office/" target="_parent">Student Affairs Office</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Class-Schedule" target="_parent">Class Schedule</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Date-Sheets" target="_parent">Date Sheets</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Academic-Calendar" target="_parent">Academic Calendar</a></li>
+	<!--<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Policies/ms_policy" target="_parent">MS Policy Guidelines</a></li>-->
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Policies/pg_policy/PG%20Policy.pdf" target="_blank">PG Policy Guidelines</a></li>
+	<!--<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Summer-Semester" target="_parent">Summer Semester Courses</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Student-Achievements" target="_parent">Students Achievement</a></li>-->
+    
+    <li><a href="http://seecs.nust.edu.pk/Student-Affairs/Scholarships/latest-scholarships.php" target="_parent">Scholarships</a></li>
+
+    <li><a href="http://seecs.nust.edu.pk/Student-Affairs/student-advisors-list/" target="_parent">Faculty Advisory groups</a></li>
+    <li><a href="http://seecs.nust.edu.pk/Student-Affairs/Alumni/apply.php" target="_parent">Alumni Scholarship</a></li>
+</ul>
+				</li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">International</a>
+							<ul>	
+	<li><a href="http://seecs.nust.edu.pk/International/Visitors-Comments" target="_parent">Delegates visiting SEECS</a></li>
+	<!--<li><a href="http://seecs.nust.edu.pk/International/SEECS-Delegates-Visiting-Abroad/" target="_parent">SEECS Delegates visiting abroad</a></li>
+	<li><a href="http://seecs.nust.edu.pk/International/Internationl-Interns" target="_parent">Internships for International Students</a></li>
+	<!--<li><a href="http://iaeste.seecs.nust.edu.pk/" target="_blank">IAESTE Islamabad</a></li>-->
+</ul>
+				</li>
+				<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" target="_parent">Internal</a>
+					<ul>
+	<li><a href="http://mail.seecs.edu.pk/" target="_blank">Webmail</a></li>
+	<li><a href="http://seecs.nust.edu.pk/Internal/downloads" target="_parent">Downloads</a></li>
+	<li><a href="http://seecs.nust.edu.pk/dir" target="_parent">SEECS Directory</a></li>
+   	<li><a href="http://seecs.nust.edu.pk/Departments/Library" target="_parent">Library</a></li>    
+	<li><a href="http://intranet.seecs.edu.pk/" target="_blank">SEECS Intranet</a></li>
+	<li><a href="http://lms.nust.edu.pk/" target="_Blank">LMS</a></li>
+	<li><a href="http://support.seecs.edu.pk/" target="_blank">Helpdesk</a></li>
+	<li><a href="http://sc.seecs.nust.edu.pk/" target="_blank">Seminar Hall Booking</a></li>
+	<!--<li><a href="http://seecs.nust.edu.pk/Internal/NINS" target="_parent">NINS</a></li>-->
+</ul>
+		  </li>
+		</ul>
+	   <!-- <a href="#" id="button-registration">Registration</a>-->
+	</div>
+</nav></header>	
+		<div id="content-container">
+			<div id="content" class="clearfix">
+				<!--<nav id="nav-sub-container" class="clearfix">
+		<ul id="nav-sub">
+			<li class="current-menu-item"><a href="#">Vision &amp; Mission</a></li>
+			<li><a href="#">Message from Principal</a></li>
+			<li><a href="#">Message from Dean</a></li>
+			<li><a href="#">Luminaries Message</a></li>
+			<li><a href="#">NIIT to SEECS</a></li>
+			<li><a href="#">e-Media</a></li>
+			<li><a href="#">Picture Gallery</a></li>
+			<li><a href="#">Seminars & Workshops</a></li>
+			<li><a href="#">Faculty achievements</a></li>
+		</ul>
+</nav>
+-->				<div id="sidebar">
+					<aside class="widget-container">
+						<div class="widget-wrapper clearfix">
+							<h3 class="widget-title">About SEECS</h3>
+							<ul>
+	<li><a href="http://seecs.nust.edu.pk/About/Mission-and-Vision" target="_parent">Vision &amp; Mission</a></li>
+<!--	<li><a href="http://seecs.nust.edu.pk/About/Principal-Message" target="_parent">Message from Principal</a></li>-->
+	<li><a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message" target="_parent">Message from Principal and Dean SEECS</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Faculty" target="_parent">SEECS Faculty</a></li>
+	<li><a href="http://seecs.nust.edu.pk/About/NIIT-to-SEECS" target="_parent">NIIT to SEECS</a></li>
+	<!--
+    <li><a href="" target="_parent">e-Media</a></li>
+	<li><a href="" target="_parent">Picture Gallery</a></li>
+    -->
+	<li><a href="http://seecs.nust.edu.pk/About/Seminars-Workshops" target="_parent">Events</a></li>
+	<!--<li><a href="http://seecs.nust.edu.pk/Events/" target="_parent">Events</a></li>-->
+	<!--<li><a href="http://seecs.nust.edu.pk/About/News-Letter/">News Letters</a></li>
+	<li><a href="http://seecs.nust.edu.pk/About/Photo-Gallery/" target="_parent">Photo Gallery</a></li> -->   
+	<li><a href="http://seecs.nust.edu.pk/About/Faculty-Achievements/" target="_parent">Faculty Achievements</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Career/" target="_parent">Career</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Tender-Notice/" target="_parent">Tender Notice</a></li>
+    <li><a href="http://seecs.nust.edu.pk/About/Contact/" target="_parent">Contact Us</a></li>
+</ul>						</div>
+					</aside>
+				</div>				
+				<div id="main-content">
+				
+						 
+						
+						<article class="static-page">
+							<h1 id="main-title"><strong>Message from Principal and Dean NUST-SEECS</strong></h1>
+							<div id="profile-team">
+								<img src="./deanmessage_files/dean-seecs.jpg" alt="Dean NUST-SEECS" class="alignright">
+								<ul id="list-social-team">
+								  <li class="position-team">Principal and Dean NUST-SEECS</li>
+									<li class="email-team"><a href="mailto:drzaidi@seecs.edu.pk">drzaidi@seecs.edu.pk</a></li>
+								</ul>
+							</div>
+							<h5>Welcome to NUST School of Electrical Engineering and Computer Science (SEECS). </h5>
+							<p>In the current age of rapid progress, only those fired with a passion to excel can aspire for a respectable survival. We at NUST-SEECS are committed to provide first-rate engineering education in Pakistan, second to none.  The School offers postgraduate and undergraduate programs covering the disciplines of electrical, telecommunications and IT education. These programs blending computers, communication technologies and other information retrieving/processing tools equip the youth with the requisite know-how for solving real life problems and cope with the challenges of the professional world ahead. </p>
+							<p>We lay great emphasis on emerging, interdisciplinary, cutting-edge areas of research. Our faculty members are admirably engaged in interdisciplinary research projects of substance. The Institute is ideally suited for those aspiring to pursue sponsored research diverse hi-tech areas such as Object oriented technologies, Networking Technologies, Database technologies, E-commerce technologies, Communication systems engineering and kindred fields.</p>
+							<p>We cherish to develop the School into an icon of excellence of world stature, and our endeavours are making promising headways. We are privileged to educate and groom on our campus some of the best and brightest students from the entire spectrum of the population including expatriates. We are proud to employ top of the line faculty with impressive academic credentials and progressive vision. </p>
+							<p>I am confident that our high-tech degree programmes and courses will contribute a great deal towards enhancing the nation’s indigenous capabilities for self-sufficiency in the critical fields of science and technology.</p>
+							<p>I cordially invite you to consider embarking on your professional studies at our purpose-built new campus at Islamabad.</p><!--
+							<a href="Profile/Dr.Zaidi/" class="button-link">View Profile</a>
+							<a href="http://drzaidi.seecs.nust.edu.pk/" target="_blank" class="button-link">View Home Page</a>
+						  <p></p>-->
+						</article>
+
+				</div>
+				 
+			</div>
+		</div>
+
+		<br><br><br>
+
+
+<hr color="#CCCCCC" size="1"> 
+<div id="footer-content" class="clearfix">
+	<div id="footer-container">
+		<div id="sidebar-footer-left" class="sidebar-footer">
+			<aside class="widget-container">
+				<div class="widget-wrapper clearfix">
+					<h3 class="widget-title">Quick Navigation</h3>
+					<ul>
+						<li><a href="http://seecs.nust.edu.pk/About/Faculty/">SEECS Faculty</a> | <a href="http://seecs.nust.edu.pk/About/Career/">Career</a> | <a href="http://seecs.nust.edu.pk/dir/">SEECS Directory</a></li>
+						<li><a href="http://alumni.seecs.nust.edu.pk/ddmenu/m4_2.php" target="_blank">Alumni Scholarship Fund</a> | <a href="http://seecs.nust.edu.pk/Student-Affairs/Scholarships/latest-scholarships.php">Latest Scholarships</a></li>
+						<li><a href="http://lms.nust.edu.pk/" target="_blank">LMS Portal</a> | <a href="http://seecs.nust.edu.pk/Departments/Library/">SEECS Library</a> | <a href="http://seecs.nust.edu.pk/Internal/downloads/downloads/SEECS_Plagiarism_Policy_Dec2010_v1.0.pdf" target="_blank">Plagiarism Policy</a></li>
+						<li><a href="http://seecs.nust.edu.pk/Student-Affairs/Academic-Calendar/">Academic Calendar</a> | <a href="http://seecs.nust.edu.pk/event_calendar/">Event Calendar</a></li>
+                        <li><a href="https://ugadmissions.nust.edu.pk/" target="_blank">UG Admissions</a> | <a href="http://pgadmission.nust.edu.pk/" target="_blank">MS Admissions</a> | <a href="http://phdadmission.nust.edu.pk/" target="_blank">PhD Admissions</a></li>
+					</ul>
+				</div>
+			</aside>
+		</div>
+		<div id="sidebar-footer-middle" class="sidebar-footer">
+			<aside class="widget-container">
+				<div class="widget-wrapper clearfix">
+					<h3 class="widget-title">Campus Location</h3>		
+					<article class="text-widget ">
+<a href="https://www.google.com/maps?ll=33.642594,72.990548&amp;z=14&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=embed&amp;cid=14713605892655950509" target="_blank">
+<img src="./deanmessage_files/direction.jpg" border="0">
+</a>
+
+<br>                                   
+					</article>
+				</div>
+			</aside>
+		</div>
+			<article id="footer-address" class="clearfix">
+				<h3 id="title-footer-address"><span>Contact SEECS</span></h3>
+				<p>School of Electrical Engineering and Computer Science (SEECS)<br>
+					National University of Sciences and Technology (NUST)<br>
+					NUST Sector H-12<br>
+					Islamabad - 44000<br>
+					Pakistan.</p>
+				<a href="http://seecs.nust.edu.pk/About/Contact/" class="more-intro">Read More</a>
+				<ul id="list-social" class="clearfix" style="float:right; margin-top:50px">
+				  <li id="icon-facebook"><a href="https://www.facebook.com/NUST.SEECS" target="_blank">Facebook</a></li>
+					<li id="icon-twitter"><a href="https://twitter.com/nustseecs" target="_blank">Twitter</a></li>
+					<li id="icon-linkedin"><a href="https://www.linkedin.com/company/nust-school-of-electrical-engineering-&amp;-computer-science" target="_blank">Linkedin</a></li>
+				</ul>
+			</article>
+	</div>
+</div>
+			<div id="footer-copyright">
+		<div id="footer-copyright-content" class="clearfix">
+			<a href="http://seecs.nust.edu.pk/About/Principal-Dean-Message/#" id="logo-footer">
+			<img src="./deanmessage_files/logo-footer.png" alt="School of Electrical Engineering and Computer Science (SEECS)"></a>
+			<ul id="nav-footer" class="clearfix">
+				<li><a href="http://seecs.nust.edu.pk/">Home</a></li>
+				<li><a href="http://seecs.nust.edu.pk/About/Contact">Contact</a></li>
+			</ul>
+			<p id="text-copyright">Copyright © 2018. All rights reserved</p>
+		</div>
+	</div>
+	
+	<script type="text/javascript">
+	jQuery(document).ready(function ($){
+        $(window).scroll(function () {
+            if ($(document).scrollTop() <= 40) {
+                $('#header-full').removeClass('small');
+                $('.tabs-blur').removeClass('no-blur');
+                $('#main-header').removeClass('small');
+            } else {
+                $('#header-full').addClass('small');
+                $('.tabs-blur').addClass('no-blur');
+                $('#main-header').addClass('small');
+            }
+        });
+        
+        $("a[data-rel^='prettyPhoto']").prettyPhoto({
+			default_width: 600,
+			default_height: 420,
+			social_tools: false
+		});
+        $('#slideshow-tabs').tabs({ show: { effect: "fade", duration: 200 }, hide: { effect: "fade", duration: 300 } });
+        $('.slider-tabs.flexslider').flexslider({
+            animation: "slide",
+            pauseOnAction: true,
+        });
+		$("#slideshow-tabs").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 10000, true);
+		$('a[data-rel]').each(function() {
+			$(this).attr('rel', $(this).data('rel'));
+		});
+		$('img[data-retina]').retina({checkIfImageExists: true});
+		$(".open-menu").click(function(){
+		    $("body").addClass("no-move");
+		});
+		$(".close-menu, .close-menu-big").click(function(){
+		    $("body").removeClass("no-move");
+		});
+	});
+	</script>		
+	
+</body><span class="gr__tooltip  gr__flipped" data-content="No definition found" style="top: -9999px; left: 1063.62px; opacity: 0;"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle" style="margin-left: 40.2273px;"></span></span></html>
